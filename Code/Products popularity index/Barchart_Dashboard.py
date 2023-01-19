@@ -4,6 +4,8 @@ import pandas as pd
 from jupyter_dash import JupyterDash
 import dash_bootstrap_components as dbc
 
+#This dashboard is also running at https://colab.research.google.com/drive/1Zd9R6JGV3MT3QRVpjsX1GxJNmWK1JeVG?usp=sharing
+
 url = 'https://drive.google.com/file/d/1-ZA-THCQED-HO7ymNreAAzZnbz8rxDIJ/view?usp=share_link' #At this link is the dataset "quarter.csv" compiled with "popularities_index.ipynb"
 path = 'https://drive.google.com/uc?export=download&id='+url.split('/')[-2]
 df = pd.read_csv(path)
