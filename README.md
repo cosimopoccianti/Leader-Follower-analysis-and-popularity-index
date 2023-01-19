@@ -17,4 +17,7 @@ The analysis made use of statistical techniques to identify dynamic pricing and 
 ### 2. Popularity index:
 Seven different indices were created to reflect different aspects and characteristics of the products, so that the ranking of the most popular products can be customised to each specific decision-making need. The result of the analysis is a barchart that can be personalised, thanks to the plotly library, which was realised via a dashboard, accessible at this link: [colab dashboard](https://colab.research.google.com/drive/1Zd9R6JGV3MT3QRVpjsX1GxJNmWK1JeVG?usp=sharing)
 
+&nbsp;
+
+For a more detailed overview of our project take a look at our [presentation](project_presentation_slides.pdf)
 
