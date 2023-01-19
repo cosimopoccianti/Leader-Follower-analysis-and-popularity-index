@@ -4,7 +4,7 @@ Project carried out as part of the "Big data and Smart data analytics" course at
 
 *Authors*: [Cosimo Poccianti](https://github.com/cosimopoccianti), [Olimpia Sannucci](https://github.com/olimpiasannucci), [Carlo Ardito](https://github.com/CarloArdito95?tab=repositories), [Miro Confalone](https://github.com/mirocon)
 
-<img src="https://github.com/cosimopoccianti/Leader-Follower-analysis-and-popularity-index/blob/main/logo/python_logo.pn" width="200" height="400" />
+<img src="https://github.com/cosimopoccianti/Leader-Follower-analysis-and-popularity-index/blob/main/logo/python_logo.png" width="200" height="200" />
 
 This project was realised in cooperation with the consulting company Alkemy, which provided anonymised datasets of a real business case and project goals. The project concerns an analysis on behalf of an e-commerce, to understand whether dynamic pricing trends are present in the market in which it operates, and which market leaders and followers set the price. In addition, it is required to construct a popularity index for the products sold by the e-commerce. The data analysed cover 2021 only.
 
