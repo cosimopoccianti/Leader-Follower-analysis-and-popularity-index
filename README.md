@@ -2,7 +2,7 @@
 
 Project carried out as part of the "Big data and Smart data analytics" course at LUISS University.
 
-*Authors*: Cosimo Poccianti, Olimpia Sannucci, Carlo Ardito, Miro Confalone
+*Authors*: Cosimo Poccianti, Olimpia Sannucci, Carlo Ardito, [Miro Confalone](https://github.com/mirocon)
 
 This project was realised in cooperation with the consulting company Alkemy, which provided anonymised datasets of a real business case and project goals. The project concerns an analysis on behalf of an e-commerce, to understand whether dynamic pricing trends are present in the market in which it operates, and which market leaders and followers set the price. In addition, it is required to construct a popularity index for the products sold by the e-commerce. The data analysed cover 2021 only.
 
